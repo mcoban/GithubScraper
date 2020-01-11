@@ -9,6 +9,7 @@
   "author": "Müslüm Çoban <mcoban86@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.1"
+    "axios": "^0.19.1",
+    "kue": "^0.11.6"
   }
 }
